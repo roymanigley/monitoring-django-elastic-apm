@@ -1,0 +1,9 @@
+asgiref==3.7.2
+certifi==2023.11.17
+Django==5.0
+ecs-logging==2.1.0
+elastic-apm==6.19.0
+sqlparse==0.4.4
+typing_extensions==4.9.0
+urllib3==2.1.0
+wrapt==1.14.1
